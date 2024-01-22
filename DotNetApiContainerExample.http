@@ -1,0 +1,6 @@
+@DotNetApiContainerExample_HostAddress = http://localhost:80
+
+GET {{DotNetApiContainerExample_HostAddress}}/health/
+Accept: application/json
+
+###
